@@ -19,20 +19,20 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./data/visualization.png "Visualization"
-[image2]: ./data/after_augmentation.png "Distribution after augmentation"
-[image3]: ./data/augmented.png "Scaled, Translated or Rotated"
-[image4]: ./data/normalize_grayscale.png "Normalized and Gray Scaled Image"
-[image5]: ./data/model_architecture.png "Model Architecture"
-[image6]: ./data/children_crossing.jfif "Traffic Sign 1"
-[image7]: ./data/construction.jfif "Traffic Sign 2"
-[image8]: ./data/go_right.jfif "Traffic Sign 3"
-[image9]: ./data/go_straight_or_left.jfif "Traffic Sign 4"
-[image10]: ./data/left_turn.jfif "Traffic Sign 5"
-[image11]: ./data/speed_limit20.jfif "Traffic Sign 6"
-[image12]: ./data/stop.jfif "Traffic Sign 7"
-[image13]: ./data/straight_or_right.jfif "Traffic Sign 8"
-[image14]: ./data/traffic_cycle.jfif "Traffic Sign 9"
+[image1]: https://github.com/chiurane/self-driving-car-nanodegree/blob/main/CarND-Traffic-Sign-Classifier-Project/data/visualization.PNG "Visualization"
+[image2]: https://github.com/chiurane/self-driving-car-nanodegree/blob/main/CarND-Traffic-Sign-Classifier-Project/data/after_augmentation.PNG "Distribution after augmentation"
+[image3]: https://github.com/chiurane/self-driving-car-nanodegree/blob/main/CarND-Traffic-Sign-Classifier-Project/data/augmented.PNG "Scaled, Translated or Rotated"
+[image4]: https://github.com/chiurane/self-driving-car-nanodegree/blob/main/CarND-Traffic-Sign-Classifier-Project/data/normalize_grayscale.PNG "Normalized and Gray Scaled Image"
+[image5]: https://github.com/chiurane/self-driving-car-nanodegree/blob/main/CarND-Traffic-Sign-Classifier-Project/data/model_architecture.PNG "Model Architecture"
+[image6]: https://github.com/chiurane/self-driving-car-nanodegree/blob/main/CarND-Traffic-Sign-Classifier-Project/data/children_crossing.jfif "Traffic Sign 1"
+[image7]: https://github.com/chiurane/self-driving-car-nanodegree/blob/main/CarND-Traffic-Sign-Classifier-Project/data/construction.jfif "Traffic Sign 2"
+[image8]: https://github.com/chiurane/self-driving-car-nanodegree/blob/main/CarND-Traffic-Sign-Classifier-Project/data/go_right.jfif "Traffic Sign 3"
+[image9]: https://github.com/chiurane/self-driving-car-nanodegree/blob/main/CarND-Traffic-Sign-Classifier-Project/data/go_straight_or_left.jfif "Traffic Sign 4"
+[image10]: https://github.com/chiurane/self-driving-car-nanodegree/blob/main/CarND-Traffic-Sign-Classifier-Project/data/left_turn.jfif "Traffic Sign 5"
+[image11]: https://github.com/chiurane/self-driving-car-nanodegree/blob/main/CarND-Traffic-Sign-Classifier-Project/data/speed_limit20.jfif "Traffic Sign 6"
+[image12]: https://github.com/chiurane/self-driving-car-nanodegree/blob/main/CarND-Traffic-Sign-Classifier-Project/data/stop.jfif "Traffic Sign 7"
+[image13]: https://github.com/chiurane/self-driving-car-nanodegree/blob/main/CarND-Traffic-Sign-Classifier-Project/data/straight_or_right.jfif "Traffic Sign 8"
+[image14]: https://github.com/chiurane/self-driving-car-nanodegree/blob/main/CarND-Traffic-Sign-Classifier-Project/data/traffic_cycle.jfif "Traffic Sign 9"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
